@@ -417,10 +417,4 @@
       </build>
     </profile>
   </profiles>
-  <distributionManagement>
-        <repository>
-            <id>nexus-releases</id> <!-- Match this ID with the settings.xml -->
-            <url>http://44.208.27.4:8081/repository/maven-spring/</url>
-        </repository>
-  </distributionManagement>
 </project>
